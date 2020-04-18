@@ -10,5 +10,3 @@ I'm pretty excited to be writing our first blog post! I'll keep it brief and wan
 All in all it's been great and we're going strong. We're super excited to be launching soon. We will start out by releasing limited functionality at first and then enabling more features as we go.
 
 Stay tune for some great stuff coming up in the next few weeks!
-
-Yashua
